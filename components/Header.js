@@ -13,7 +13,7 @@ export default function Header() {
           <Link href='/Blog'>
             <a className='mr-5 hover:text-gray-900'>Blog</a>
           </Link>
-          <Link href='/contactus'>
+          <Link href='/contact'>
             <a className='mr-5 hover:text-gray-900'>Contact</a>
           </Link>
         </nav>
